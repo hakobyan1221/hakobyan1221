@@ -11,5 +11,11 @@ Currently expanding my expertise into cross-platform development with Flutter an
 - ☁️ Firebase, REST APIs, Retrofit
 - 🔧 Git, Gradle, CI/CD, GitHub Actions
 
+## My GitLab Activity
+
+You can view my activity on GitLab here:
+
+[![GitLab Profile Badge](https://img.shields.io/badge/m.hakobyan?style=flat&logo=gitlab)]([https://gitlab.com/your-username](https://gitlab.fortebank.com/m.hakobyan))
+
 ## 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/margarita-hakobyan-743940ba/) 
