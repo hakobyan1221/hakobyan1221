@@ -11,6 +11,17 @@ Currently expanding my expertise into cross-platform development with Flutter an
 - ☁️ Firebase, REST APIs, Retrofit
 - 🔧 Git, Gradle, CI/CD, GitHub Actions
 
+## 🚀 Projects
+
+### 📱 Yandex Weather App  
+A modern Android app that integrates with the Yandex Weather API to display current weather conditions and forecasts.  
+Built with Kotlin, MVVM architecture, Coroutines, and Jetpack Compose for a smooth and responsive user experience.
+(source code is under NDA)
+
+![1](https://github.com/user-attachments/assets/cb23c4eb-c18f-4d4c-bdae-5e0befa6b4f8)
+
+
+
 
 ## 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/margarita-hakobyan-743940ba/) 
