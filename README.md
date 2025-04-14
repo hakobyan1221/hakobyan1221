@@ -11,6 +11,8 @@ Currently expanding my expertise into cross-platform development with Flutter an
 - ☁️ Firebase, REST APIs, Retrofit
 - 🔧 Git, Gradle, CI/CD, GitHub Actions
 
+![GitHub Activity Chart](https://github-readme-stats.vercel.app/api?username=hakobyan1221&show_icons=true&count_private=true&hide=prs&theme=radical&year=2022)
+
 
 ## 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/margarita-hakobyan-743940ba/) 
