@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there, I'm Margarita
 
-<!--
-**hakobyan1221/hakobyan1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android developer with over 7 years of experience building high-quality mobile applications. I’m passionate about creating intuitive, performant, and maintainable code.
 
-Here are some ideas to get you started:
+Currently expanding my expertise into cross-platform development with Flutter and Kotlin Multiplatform, while exploring backend development with Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- 💚 Kotlin, Java, Jetpack Compose, Android SDK
+- 🔁 Coroutines, Flow, Dagger/Hilt, Room
+- 📱 Flutter, Kotlin Multiplatform (KMP)
+- ☁️ Firebase, REST APIs, Retrofit
+- 🔧 Git, Gradle, CI/CD, GitHub Actions
+
+
+## 📫 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/margarita-hakobyan-743940ba/) 
